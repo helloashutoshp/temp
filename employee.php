@@ -22,7 +22,7 @@ if (!isset($_SESSION["user1"])) {
 <div class="content-wrapper">
   <?php
 
-
+<h1>dlkfhfh</h1>
   if (isset($_SESSION['status'])) {
   ?>
 
